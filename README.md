@@ -39,5 +39,6 @@ Here are some ideas to get you started:
 - Lua
 - Python
 - C/C++
+- Java
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C11R23C2)
