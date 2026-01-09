@@ -40,5 +40,6 @@ Here are some ideas to get you started:
 - Python
 - C/C++
 - Java
+- PHP
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C11R23C2)
