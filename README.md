@@ -41,5 +41,7 @@ Here are some ideas to get you started:
 - C/C++
 - Java
 - PHP
+- Dart
+- Flutter
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C11R23C2)
