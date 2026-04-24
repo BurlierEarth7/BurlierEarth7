@@ -18,13 +18,21 @@
 |            | Blazor (C#) |
 |            | xUnit (C#)  |
 |            | ASPNET (C#) |
+|            | Java        |
 
 ### Knowledgable About
+
+#### Languages
 
 - Lua
 - Python
 - C/C++
-- Java
 - PHP
 - Dart
+- Rust
+
+#### Frameworks
+
 - Flutter
+- Jakarta EE
+- Django
